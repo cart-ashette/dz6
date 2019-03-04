@@ -1,0 +1,23 @@
+<svg  version="1.1" width = "100%" height="100%"
+        viewBox="0 0 750 680"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events">
+     <!-- width="100%"  height="100%" viewbox="0 0 912 630" -->
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#figureGrad) } 
+	</style>
+       <defs>
+        <linearGradient id="figureGrad" gradientUnits="userSpaceOnUse"  x1="372.174" y1="763.676" x2="548.308" y2="0.756">
+            <stop offset="0" stop-color="#ff8f5a"  />
+            <stop offset="0.987" stop-color="#ff2f95"  />
+        </linearGradient>
+    </defs> 
+	<g id="figure">
+		<g id="bg+Человек+фигура">
+			<path id="Ellipse 1" class="shp0" d="M395.52,40.41c-54.7,25.42 -99.07,59 -142.21,99.9c-42.74,40.81 -84.25,88.94 -123.89,141.53c-39.24,52.51 -76.61,109.49 -101.74,166.12c-24.72,56.54 -37.21,112.73 -17.32,161.74c35.09,98.71 201.49,142.47 349.97,151.79c74.82,4.85 145.43,1.45 203.49,-7.94c58.84,-9.53 105.12,-25.06 149.15,-47.73c83.14,-45.02 144.15,-108.1 180.8,-191.78c36.16,-82.44 36.2,-184.36 -8.07,-279.24c-46.14,-93.95 -114.06,-169.55 -198.49,-207.11c-84.22,-37.87 -184.95,-37.72 -291.69,12.74z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="480" height="480">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #000000 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M480,256v184c0,13.23 -10.77,24 -24,24h-88c-13.23,0 -24,-10.77 -24,-24v-88h-45.53l15.73,57.69c1.98,7.27 0.5,14.89 -4.08,20.88c-4.58,5.99 -11.53,9.43 -19.07,9.43h-67.05c0,13.23 -10.77,24 -24,24h-176c-13.23,0 -24,-10.77 -24,-24v-240c0,-13.23 10.77,-24 24,-24v-120c0,-22.06 17.94,-40 40,-40h352c22.06,0 40,17.94 40,40v176c13.23,0 24,10.77 24,24zM208,424h-192v16c0,4.41 3.59,8 8,8h176c4.41,0 8,-3.59 8,-8zM208,232h-192v176h192zM208,200c0,-4.41 -3.59,-8 -8,-8h-176c-4.41,0 -8,3.59 -8,8v16h192zM297.16,408h-73.16v16h67.05c2.52,0 4.83,-1.14 6.36,-3.14c1.53,-2 2.02,-4.54 1.36,-6.96zM292.8,392l-10.91,-40h-57.89v40zM344,288h-120v48h120zM368,232h72v-176c0,-13.23 -10.77,-24 -24,-24h-352c-13.23,0 -24,10.77 -24,24v120h160c13.23,0 24,10.77 24,24v72h120v-16c0,-13.23 10.77,-24 24,-24zM464,424h-104v16c0,4.41 3.59,8 8,8h88c4.41,0 8,-3.59 8,-8zM464,288h-104v120h104zM464,256c0,-4.41 -3.59,-8 -8,-8h-88c-4.41,0 -8,3.59 -8,8v16h104z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M53.65,357.65l32,-32l-11.31,-11.31l-32,32z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M85.65,381.65l96,-96l-11.31,-11.31l-96,96z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M101.65,309.66l48,-48l-11.31,-11.31l-48,48z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M389.64,357.66l39.99,-39.99l-11.31,-11.31l-39.99,39.99z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M405.64,389.7l39.99,-39.99l-11.31,-11.31l-39.99,39.99z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M221.65,165.66l48,-48l-11.31,-11.31l-48,48z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M293.65,149.66l48,-48l-11.31,-11.31l-48,48z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M245.65,197.67l32,-32l-11.31,-11.31l-32,32z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M285.6,101.76l32.08,-32.08l-11.31,-11.31l-32.08,32.08z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M56,64h16v-16h-16z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M88,64h16v-16h-16z" />
+		</g>
+	</g>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M120,64h16v-16h-16z" />
+		</g>
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+	<g id="Layer">
+	</g>
+</svg>
